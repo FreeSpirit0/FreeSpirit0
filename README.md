@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Poomtum, I write code so I don't starve to dead.
+I'm Poomtum, a software engineer who writes code to solve problems — and occasionally to stay fed.
 
 ## Languages I still kinda remembered how to write
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
